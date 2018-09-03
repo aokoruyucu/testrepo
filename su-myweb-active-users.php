@@ -10447,5 +10447,5 @@ $data = array(
 	10443 => array('SU_ID' => '1042', 'FULLNAME' => 'Şükrü Ünal', 'DIR_EMAIL_SU' => 'sukruunal@sabanciuniv.edu'),
 	10444 => array('SU_ID' => '9619', 'FULLNAME' => 'Şükrü Ünlüoğlu', 'DIR_EMAIL_SU' => 'sunluoglu@sabanciuniv.edu'),
 );
-echo json_encode(array("data"=>$data));
+return $data;
 ?>
