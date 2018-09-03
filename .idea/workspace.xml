@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="663cea67-2d4a-4789-81a7-83d33fd48fca" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/su-myweb-active-users.php" afterPath="$PROJECT_DIR$/su-myweb-active-users.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +16,9 @@
       <file leaf-file-name="su-myweb-active-users.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/su-myweb-active-users.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="10449" column="13" lean-forward="true" selection-start-line="10449" selection-start-column="13" selection-end-line="10449" selection-end-column="13" />
-              <folding>
-                <element signature="e#15#1193024#0#PHP" expanded="false" />
-              </folding>
+            <state relative-caret-position="-177210">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,12 +108,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535958564744</updated>
-      <workItem from="1535958567176" duration="277000" />
+      <workItem from="1535958567176" duration="519000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="277000" />
+    <option name="totallyTimeSpent" value="519000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -149,17 +146,23 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/su-myweb-active-users.php</url>
+          <line>2</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/su-myweb-active-users.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="10449" column="13" lean-forward="true" selection-start-line="10449" selection-start-column="13" selection-end-line="10449" selection-end-column="13" />
-          <folding>
-            <element signature="e#15#1193024#0#PHP" expanded="false" />
-          </folding>
+        <state relative-caret-position="-177210">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
