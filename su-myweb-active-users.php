@@ -1,6 +1,6 @@
 <?php
 
-array(
+$data = array(
 	0 => array('SU_ID' => '15769', 'FULLNAME' => 'A. Dorukhan Yavaş', 'DIR_EMAIL_SU' => 'dorukhany@sabanciuniv.edu'),
 	1 => array('SU_ID' => '11541', 'FULLNAME' => 'A.Cem Bodur', 'DIR_EMAIL_SU' => 'cembodur@sabanciuniv.edu'),
 	2 => array('SU_ID' => '15137', 'FULLNAME' => 'Aakash Kumar Dharma', 'DIR_EMAIL_SU' => 'aakashkumar@sabanciuniv.edu'),
@@ -10447,5 +10447,5 @@ array(
 	10443 => array('SU_ID' => '1042', 'FULLNAME' => 'Şükrü Ünal', 'DIR_EMAIL_SU' => 'sukruunal@sabanciuniv.edu'),
 	10444 => array('SU_ID' => '9619', 'FULLNAME' => 'Şükrü Ünlüoğlu', 'DIR_EMAIL_SU' => 'sunluoglu@sabanciuniv.edu'),
 );
-
+echo json_encode(array("data"=>$data));
 ?>
